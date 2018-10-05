@@ -306,7 +306,7 @@ final class Crypto_Currency_Price_Widget {
 			$output .= '<div class="tickercontainer" style="height: auto; overflow: hidden;"><div class="mask">';
 			$output .= '<ul  id="'.$id.'">';
 			$output .= $crypto_html;
-			$output .= '</ul></div>';
+			$output .= '</ul></div></div></div>';
 
 	}else if($type == "price-label"){
 			$id = "ccpw-label-widget-".$post_id;	
