@@ -186,7 +186,7 @@ final class Crypto_Currency_Price_Widget {
 
 
 
-	wp_enqueue_style('ccpw-font-awesome','https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+	//wp_enqueue_style('ccpw-font-awesome','https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
 	// loading Scripts for ticker widget
 
